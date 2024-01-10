@@ -9,7 +9,7 @@ Working in the dynamic field of development has been both a passion and a journe
 Each project in this repository reflects not just my technical proficiency but also my commitment to delivering high-quality solutions.
 Should you have any questions or require additional information, please don't hesitate to reach out. 
 I am open to discussions, feedback, and potential opportunities for collaboration. Your time and consideration are highly valued, and I look forward to the possibility of connecting with you further.
-Best regards,
-Behailu Tessema
-tbehailu0382@gmail.com
-(916-545-5132)
+      Best regards,
+      Behailu Tessema
+      tbehailu0382@gmail.com
+      (916-545-5132)
