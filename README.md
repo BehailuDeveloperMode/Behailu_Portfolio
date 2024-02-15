@@ -9,7 +9,7 @@ Each project showcased here not only demonstrates my technical prowess but also 
 If you have any inquiries or require additional information, do not hesitate to reach out. 
 I am receptive to discussions, feedback, and potential opportunities for collaboration. 
 Your time and consideration are invaluable, and I eagerly anticipate the possibility of further engagement.
-Best regards,
-Behailu Tessema
-Email: tbehailu0382@gmail.com
-Phone: (916) 545-5132
+   Best regards,
+   Behailu Tessema
+   Email: tbehailu0382@gmail.com
+   Phone: (916) 545-5132
