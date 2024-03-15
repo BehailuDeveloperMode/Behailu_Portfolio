@@ -1,15 +1,10 @@
 
 Dear Visitor,
-Welcome to the GitHub Repository of Behailu Tessema, DeveloperMode. Thank you sincerely for your interest and time. 
-Within this repository, you will discover a compilation of projects, code snippets, and collaborative endeavors that serve as a testament to my skills and experience as a developer.
-Should you wish to delve into my professional background further, please feel free to contact me. 
-I genuinely appreciate your consideration and am enthusiastic about the prospect of contributing to your projects or collaborating with your team.
-Working within the dynamic realm of development has been both a passion and a continuous learning journey for me. 
-Each project showcased here not only demonstrates my technical prowess but also underscores my dedication to delivering top-notch solutions.
-If you have any inquiries or require additional information, do not hesitate to reach out. 
-I am receptive to discussions, feedback, and potential opportunities for collaboration. 
-Your time and consideration are invaluable, and I eagerly anticipate the possibility of further engagement.
-   Best regards,
-   Behailu Tessema
-   Email: tbehailu0382@gmail.com
-   Phone: (916) 545-5132
+Welcome to the GitHub Repository of Behailu Tessema, DeveloperMode.
+Thank you for taking the time to explore my portfolio. Here, you'll find a curated collection of projects, code snippets, and collaborative endeavors that showcase my expertise and experience as a seasoned developer.
+I am deeply passionate about the ever-evolving field of development, and each entry in this repository is a reflection of my commitment to excellence and innovation. From intricate projects to simple yet elegant solutions, I pride myself on delivering results that exceed expectations.
+As you navigate through this repository, I invite you to delve into my professional journey and explore the breadth of my technical skills. Whether you're seeking a collaborator for your next project or looking to augment your team with a dedicated developer, I am eager to discuss how I can contribute to your success.
+Please don't hesitate to reach out with any questions, feedback, or opportunities for collaboration. Your time and consideration are greatly appreciated, and I look forward to the possibility of working together.
+For further information or to request my updated resume, please feel free to contact me via email at tbehailu0382@gmail.com or by phone at (916) 545-5132.
+Best regards,
+Behailu Tessema
