@@ -12,4 +12,5 @@ For further information or to request my updated resume, please feel free to con
 
 Best regards,
 
-Behailu Tessema
+Behailu Tessema - SQL/Power BI Developer
+
