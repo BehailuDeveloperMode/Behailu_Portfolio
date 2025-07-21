@@ -8,7 +8,7 @@ As you navigate through this repository, I invite you to delve into my professio
 
 Please don't hesitate to reach out with any questions, feedback, or opportunities for collaboration. Your time and consideration are greatly appreciated, and I look forward to the possibility of working together.
 
-For further information or to request my updated resume, please feel free to contact me via email at tbehailu0382@gmail.com or by phone at (916) 545-5132.
+For further information or to request my updated resume, please feel free to contact me via email at tbehailu0382@gmail.com or by phone at (916) 545-5132).
 
 Best regards,
 
