@@ -38,7 +38,7 @@ If you're interested in collaborating, have feedback, or would like a copy of my
 
 - 📧 Email: tbehailu0382@gmail.com  
 - 📞 Phone: (916) 545-5132  
-- 💼 LinkedIn: *(Add your LinkedIn URL here if you'd like)*
+- 💼 LinkedIn: *(www.linkedin.com/in/behailu-tessema0308)*
 
 Thank you again for visiting — I look forward to connecting and potentially working together!
 
