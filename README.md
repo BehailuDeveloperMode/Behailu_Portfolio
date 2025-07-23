@@ -1,18 +1,50 @@
-Welcome to the GitHub Repository of Behailu Tessema, DeveloperMode.
+## 👋 Welcome to the GitHub Portfolio of Behailu Tessema — DeveloperMode
 
-Thank you for taking the time to explore my portfolio. Here, you'll find a curated collection of projects, code snippets, and collaborative endeavors that showcase my expertise and experience as a seasoned developer.
+Thank you for taking the time to explore my professional portfolio.  
+Here, you'll find a curated collection of projects, code samples, and collaborative efforts that showcase my skills as a dedicated **SQL / Power BI Developer** with growing expertise in **Python**, **Data Warehousing**, and **AI-driven analytics**.
 
-I am deeply passionate about the ever-evolving field of development, and each entry in this repository is a reflection of my commitment to excellence and innovation. From intricate projects to simple yet elegant solutions, I pride myself on delivering results that exceed expectations.
+---
 
-As you navigate through this repository, I invite you to delve into my professional journey and explore the breadth of my technical skills. Whether you're seeking a collaborator for your next project or looking to augment your team with a dedicated developer, I am eager to discuss how I can contribute to your success.
+## 🧠 About Me
 
-Please don't hesitate to reach out with any questions, feedback, or opportunities for collaboration. Your time and consideration are greatly appreciated, and I look forward to the possibility of working together.
+I'm passionate about using data to solve real-world problems and drive smarter decisions.  
+From building scalable ETL pipelines and clean data models to delivering visual insights through dashboards, I focus on creating end-to-end solutions that are both efficient and impactful.  
+I'm also exploring the use of **AI tools and techniques** to enhance data understanding and automation.
 
-For further information or to request my updated resume, please feel free to contact me via email at tbehailu0382@gmail.com or by phone at (916) 545-5132).
+---
+
+## 💼 What You'll Find
+
+- **SQL** projects involving ETL, optimization, and reporting  
+- **Power BI** dashboards for storytelling and executive insights  
+- **Python** scripts for data transformation and analysis  
+- **Data Warehousing** models and pipelines (Star Schema, Dimensional Modeling)  
+- **AI-enhanced analytics** projects using machine learning and automation  
+- Solutions built using **SSIS**, **SQL Server**, and related tools
+
+---
+
+## 🌐 Portfolio Website
+
+Want a visual overview of my projects?
 
 🌐 [portfolio.developermode.dev](https://portfolio.developermode.dev)
 
-Best regards,
+---
 
-Behailu Tessema - SQL/Power BI Developer
+## 📬 Let's Connect
+
+If you're interested in collaborating, have feedback, or would like a copy of my resume, feel free to reach out:
+
+- 📧 Email: tbehailu0382@gmail.com  
+- 📞 Phone: (916) 545-5132  
+- 💼 LinkedIn: *(Add your LinkedIn URL here if you'd like)*
+
+Thank you again for visiting — I look forward to connecting and potentially working together!
+
+---
+
+Best regards,  
+**Behailu Tessema**  
+SQL/Power BI Developer
 
