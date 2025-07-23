@@ -10,7 +10,7 @@ Please don't hesitate to reach out with any questions, feedback, or opportunitie
 
 For further information or to request my updated resume, please feel free to contact me via email at tbehailu0382@gmail.com or by phone at (916) 545-5132).
 
-🌐 [portfolio.developermode.dev]
+🌐 [portfolio.developermode.dev](https://portfolio.developermode.dev)
 
 Best regards,
 
